@@ -1,1 +1,2 @@
-# C-34-Homework
+# Virtual-Pet-1
+c34 project
